@@ -4,7 +4,7 @@
 **Registration Number:** 23BCE10097
 **Application Number:** IN26011831
 **Batch Number:** 1A  
-**Email:** tushar.23bce10097@vitbhopal.ac.in
+**Email:** tushar366.verma@gmail.com
 
 ## Objective
 The objective of this assignment is to develop a Polynomial Regression model to estimate employee salaries based on their position level, addressing the inherently non-linear relationship between corporate hierarchy and compensation.
